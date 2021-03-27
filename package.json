@@ -1,0 +1,21 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "chatbot project for esilv s8",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ThibLAPP/MaxBUREAU",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "fetch": "^1.1.0",
+    "json": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "xregexp": "^5.0.1"
+  }
+}
